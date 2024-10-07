@@ -1,0 +1,24 @@
+{
+  "name": "Youpi",
+  "description": "Yell Youpi !",
+  "uuid": "e2e2e15e-3be9-5124-b36d-62f4a72e5edd",
+  "docker_parameters": "Youpi",
+  "arguments": {
+    "title": "Arguments",
+    "type": "object",
+    "properties": {}
+  },
+  "results": {
+    "title": "Response",
+    "type": "object",
+    "properties": {
+      "text": {
+        "title": "Text",
+        "type": "string"
+      }
+    },
+    "required": [
+      "text"
+    ]
+  }
+}
