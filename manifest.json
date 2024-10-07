@@ -7,5 +7,6 @@
   "description": "",
   "name": "glimps-custom",
   "uuid": "00813765-0be9-4c44-8ba7-13e0a7d6c55f",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "slug": "glimps-custom"
 }
